@@ -1,0 +1,3 @@
+Run it theres no timing involved
+
+Open the program you are running it in and do Ctrl + C to quit
